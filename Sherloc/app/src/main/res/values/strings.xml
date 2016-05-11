@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sherloc</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_home">Home Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_object_registration">ObjectRegistrationActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="message_hint">Say anything</string>
+    <string name="send">Send</string>
+    <string name="profile_me">My Profile Pic</string>
+    <string name="profile_other">Other profile pic</string>
+    <string name="title_activity_home2">HomeActivity2</string>
+    <string name="title_activity_home3">HomeActivity3</string>
+</resources>

@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Sherloc": {
+      "applicationId": "MVKLScMaht3xSH0MC1UDqoZsmz6iEBfAYZMu0PdK"
+    },
+    "_default": {
+      "link": "Sherloc"
+    }
+  }
+}
